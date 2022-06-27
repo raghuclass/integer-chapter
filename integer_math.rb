@@ -6,4 +6,4 @@
 
 remainder = 365 % 7
 
-print remainder
+print remainder.to_s + "\n"
