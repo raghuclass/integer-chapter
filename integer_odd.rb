@@ -9,7 +9,7 @@
 #   12
 #   false
 
-puts "Enter an odd number:"
+p "Enter an odd number:"
 
 number = gets
 
@@ -21,4 +21,4 @@ else
   odd = false
 end
 
-print odd
+p odd
